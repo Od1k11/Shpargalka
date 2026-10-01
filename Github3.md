@@ -110,3 +110,5 @@ git log --graph
 
 Ключ -graf в связке с командой log позволяет отобразить коммиты в виде дерева.
 ![](https://brand.github.com/_next/static/media/logo-02.94014ca5.png)
+<img width="1600" height="680" alt="logo-02 94014ca5" src="https://github.com/user-attachments/assets/c25735d1-7d91-441c-9479-0eed5581b15c" />
+
