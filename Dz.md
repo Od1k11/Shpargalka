@@ -1,4 +1,41 @@
+команда для предложения изменений   
+➜ запрос на вливание изменений в репозиторий 
 
+В больших компаниях один ответственный за проект создает аккаунт. Другие пользователи дают
+команду pull request. Предлагать изменения на GitHub нужно в отдельной ветке. Сначала
+пользователь копирует репозиторий на свой компьютер, делает fork репозитория, затем
+клонирует версию на своём ПК, создаёт ветку с предлагаемыми изменениями, отправляет
+изменения командой push в свой аккаунт на GitHub и даёт команду pull request.
+
+*Как сделать pull request:* 
+
+* Делаем fork (ответвление) репозитория
+
+<img <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1449d699-e6f6-4bba-9469-7ca613ee9e28" />
+>
+
+
+* Делаем git clone СВОЕЙ версии репозитория
+<img <img width="502" height="158" alt="image" src="https://github.com/user-attachments/assets/bb603c79-1f14-4e8c-9f52-0f05f09cd4fa" />
+>
+
+
+* Создаем новую ветку и в НЕЕ вносим свои изменения 
+* Фиксируем изменения (делаем коммиты)
+* Отправляем свою версию в свой GitHub
+
+<img width="479" height="22" alt="Снимок экрана 2026-10-08 182507" src="https://github.com/user-attachments/assets/56043430-64ce-42b7-8656-e500f7cf1c7e" />
+
+<img width="651" height="501" alt="Снимок экрана 2026-10-08 182538" src="https://github.com/user-attachments/assets/7e2e25b6-26cc-4401-a48a-111335c56c17" />
+
+
+* На сайте GitHub нажимаем кнопку pull request
+
+<img width="1801" height="954" alt="Снимок экрана 2026-10-08 182641" src="https://github.com/user-attachments/assets/a21282a8-379e-447b-b70e-96dc04c23f03" />
+
+<img width="1811" height="857" alt="Снимок экрана 2026-10-08 182741" src="https://github.com/user-attachments/assets/17cdfa22-233d-47de-af9b-d9de9e67b94b" />
+
+<img width="899" height="302" alt="Снимок экрана 2026-10-08 182835" src="https://github.com/user-attachments/assets/fd68252e-962c-437c-bb35-b167a2943e63" />
 
 ➜ команда для предложения изменений   
 ➜ запрос на вливание изменений в репозиторий 
